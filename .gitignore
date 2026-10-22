@@ -1,0 +1,7 @@
+# 排除 WorkBuddy 会话目录（含 memory / 临时文件，勿上传）
+.workbuddy/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.log
