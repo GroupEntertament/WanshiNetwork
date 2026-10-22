@@ -41,14 +41,12 @@ git push -u origin main
 | Legal Name (CN) | 海口玩石网络科技有限公司 | 执照 |
 | Registration No. (USCC) | 91460000MAEAQ6Q99D | 执照中英两联核对一致 |
 | Registered Address | 海南省海口市美兰区海府街道海府路12号亚希大厦14楼七室第104房 / Room 104, Seventh Section, 14th Floor, Yaxi Building, No. 12, Haifu Road, Haifu Sub-district, Meilan District, Haikou City, Hainan Province | 执照 |
-| Company Type | 有限责任公司(自然人投资或控股) / Limited Liability Company (Invested or Controlled by Natural Person) | 执照 |
-| Establishment Date | 2025年02月24日 / February 24, 2025 | 执照 |
-| Legal Representative | 张峻铭 / Zhang Junming | 执照 |
-| Registration Authority | 海南省市场监督管理局 / Market Supervision and Administration Bureau of Hainan Province | 执照 |
 | Business Scope | Game development, software development | 模板示例，执照二维码可查权威范围 |
+| Email | ming@wanshiweb.cn | 用户指定，需确认可收信 |
+| Website | 【本页面 URL · 部署后填写】 | 部署后填 GitHub Pages 地址 |
 
 仍需处理的 2 类信息：
-1. **Email**：已填建议值 `wanshikeji@163.com` —— **必须确认该邮箱已注册且可收信**（审查方可能发邮件），否则换真实邮箱（`index.html` 中 2 处）。
+1. **Email**：`ming@wanshiweb.cn` —— **需确认该邮箱已注册且可收信**（审查方可能发邮件）。
 2. **Website**：仍为占位 `【本页面 URL · 部署后填写】`（2 处），部署后填 GitHub Pages 地址。
 
 ## 其他可调整
