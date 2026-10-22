@@ -17,7 +17,7 @@
    - Business Scope
    - Contact: Email / Website
 4. **业务范围** — 游戏研发 / 软件开发 / 产品运营
-5. **联系我们** — 邮箱 / 官网 / 注册地址
+5. **联系我们** — 邮箱 / 注册地址
 6. **页脚** — 公司全称版权信息
 
 ## 部署到 GitHub Pages
@@ -43,11 +43,11 @@ git push -u origin main
 | Registered Address | 海南省海口市美兰区海府街道海府路12号亚希大厦14楼七室第104房 / Room 104, Seventh Section, 14th Floor, Yaxi Building, No. 12, Haifu Road, Haifu Sub-district, Meilan District, Haikou City, Hainan Province | 执照 |
 | Business Scope | Game development, software development | 模板示例，执照二维码可查权威范围 |
 | Email | ming@wanshiweb.cn | 用户指定，需确认可收信 |
-| Website | 【本页面 URL · 部署后填写】 | 部署后填 GitHub Pages 地址 |
+| Website | https://GroupEntertament.github.io/WanshiNetwork/ | GitHub Pages 地址（仅企业信息区展示） |
 
-仍需处理的 2 类信息：
-1. **Email**：`ming@wanshiweb.cn` —— **需确认该邮箱已注册且可收信**（审查方可能发邮件）。
-2. **Website**：仍为占位 `【本页面 URL · 部署后填写】`（2 处），部署后填 GitHub Pages 地址。
+仍需确认的信息：
+1. **Email**：`ming@wanshiweb.cn` —— 需确认该邮箱已注册且可收信（审查方可能发邮件）。
+2. 联系区已按需求移除「官网」卡片；Website 仅保留在企业信息（Company Profile）区。
 
 ## 其他可调整
 - **换肤**：`assets/css/style.css` 顶部 `:root` 改 `--violet / --cyan / --grad`。
